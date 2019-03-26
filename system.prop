@@ -174,5 +174,8 @@ persist.adb.notify=0
 # SIM 2 default ringtone
 ro.config.ringtone_2=Ring_Digital_02.ogg
 
-# Add more steps to volume bar
+# Add more steps to media volume bar
 ro.config.media_vol_steps=50
+
+# Add more steps to call volume bar
+ro.config.vc_call_vol_steps=15
